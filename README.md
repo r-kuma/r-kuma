@@ -25,10 +25,10 @@
 <td width="400" align="left">
 
 ### 👋 **Hi, I'm User!**
-🚀 **Java Developer** passionate about mobile development  
+🚀 **Java Developer** passionate about Web development  
 
 🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Building beautiful mobile applications  
+💼 **Focus:** Building beautiful Web applications  
 ☕ **Powered by:** Coffee and curiosity  
 🎯 **Goal:** Creating amazing user experiences  
 
@@ -40,9 +40,9 @@
 
 ## 📊 **GitHub Analytics**
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=user&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=user&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
@@ -57,7 +57,7 @@
 <!-- ### 📱  **Development** -->
 <!-- <img src="https://skillicons.dev/icons?i=java" /> -->
 
-### ☁️  **Backend as a Service (BaaS)**
+<!-- ### ☁️  **Backend as a Service (BaaS)** -->
 <!-- <img src="https://skillicons.dev/icons?i=supabase,firebase" /> -->
 
 ### 🔧  **Development Tools**
@@ -73,7 +73,7 @@
 <!-- <img src="https://skillicons.dev/icons?i=figma,xd,photoshop" /> -->
 
 ### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=java,js,html,css" />
+<img src="https://skillicons.dev/icons?i=java,php,js,html,css" />
 
 </td>
 </tr>
