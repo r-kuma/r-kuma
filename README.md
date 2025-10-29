@@ -54,14 +54,14 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 📱  **Mobile Development**
-<img src="https://skillicons.dev/icons?i=Java,dart" />
+<!-- ### 📱  **Development** -->
+<!-- <img src="https://skillicons.dev/icons?i=java" /> -->
 
 ### ☁️  **Backend as a Service (BaaS)**
 <!-- <img src="https://skillicons.dev/icons?i=supabase,firebase" /> -->
 
 ### 🔧  **Development Tools**
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,cursor" />
 
 </td>
 <td width="50%" align="center" valign="top">
@@ -69,11 +69,11 @@
 ### 🗄️  **Database**
 <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
 
-### 🎨  **Design**
-<img src="https://skillicons.dev/icons?i=figma,xd,photoshop" />
+<!-- ### 🎨  **Design** -->
+<!-- <img src="https://skillicons.dev/icons?i=figma,xd,photoshop" /> -->
 
 ### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=js,html,css" />
+<img src="https://skillicons.dev/icons?i=java,js,html,css" />
 
 </td>
 </tr>
@@ -95,10 +95,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
 </div>
 
-<div align="center">
-  <!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"> -->
+<!-- <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
   
   **⭐ From [user]() with ❤️**
   
   *"Java makes everything beautiful! 🦋"*
-</div>
+</div> -->
